@@ -1,10 +1,10 @@
 {
-  "name": "ang-jsoneditor",
+  "name": "@erwin-by/ang-jsoneditor",
   "version": "4.0.0",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mariohmol/ang-jsoneditor"
+    "url": "git+https://github.com/ErwinBar/ang-jsoneditor.git"
   },
   "license": "MIT",
   "scripts": {
@@ -68,5 +68,12 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "5.5.4"
-  }
+  },
+  "description": "[![Build Status](https://travis-ci.org/ErwinBar/ang-jsoneditor.svg?branch=master)](https://travis-ci.org/ErwinBar/ang-jsoneditor)",
+  "main": "index.js",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ErwinBar/ang-jsoneditor/issues"
+  },
+  "homepage": "https://github.com/ErwinBar/ang-jsoneditor#readme"
 }
