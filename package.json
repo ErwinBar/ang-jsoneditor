@@ -1,6 +1,6 @@
 {
   "name": "@erwin_by/ang-jsoneditor",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "private": false,
   "repository": {
     "type": "git",
@@ -42,14 +42,14 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^19.2.5",
-    "@angular-devkit/schematics": "^19.2.5",
-    "@angular-eslint/builder": "19.3.0",
-    "@angular-eslint/eslint-plugin": "19.3.0",
-    "@angular-eslint/eslint-plugin-template": "19.3.0",
-    "@angular-eslint/schematics": "19.3.0",
-    "@angular-eslint/template-parser": "19.3.0",
-    "@angular/cli": "^19.2.5",
+    "@angular-devkit/build-angular": "^19.2.4",
+    "@angular-devkit/schematics": "^19.2.4",
+    "@angular-eslint/builder": "19.2.4",
+    "@angular-eslint/eslint-plugin": "19.2.4",
+    "@angular-eslint/eslint-plugin-template": "19.2.4",
+    "@angular-eslint/schematics": "19.2.4",
+    "@angular-eslint/template-parser": "19.2.4",
+    "@angular/cli": "^19.2.4",
     "@angular/compiler-cli": "19.2.4",
     "@angular/language-service": "19.2.4",
     "@types/jasmine": "~5.1.2",
